@@ -3,7 +3,7 @@
 # UltraJoins V2
 
 [![](https://img.shields.io/discord/982712971782406244.svg?logo=discord&colorB=7289DA)](https://discord.gg/ultrajoins)
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/niondiscord)
 
 This bot is used by over 12k Discord users and over 99 servers.
