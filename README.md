@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/niondiscord)
 
-> This bot is used by over 12k Discord users and over 99 servers.
+This bot is used by over 12k Discord users and over 99 servers.
 
 * Creation date: Created on January 01, 2022
 * Github upload date: July 11, 2022
