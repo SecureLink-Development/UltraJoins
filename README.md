@@ -18,8 +18,8 @@ Feel free to add a star ⭐ to the repository to promote the project!
 
 UltraJoins has a lot of features to gain members:
 
-*   🏆 **Owner**: `addbal`, `del`, `ban`, `unban`, `remove`. 
-*   💎 **Général**: `help`, `invite`, `bal`, `pay`, `check`, `info`, `buy`, `giftcode`, `daily`, `stats`.
+*   🏆 **Owner**: `addbal`, `del`, `ban`, `unban`, `remove`, `bbal`, `leaveserv`. 
+*   💎 **Général**: `help`, `invite`, `bal`, `pay`, `check`, `info`, `buy`, `giftcode`, `daily`, `stats`, `newprefix`.
 *   ✉ **Inter-Pub**: `setchannel`, `install`. (Soon)
 *   ⭐ **VIP**: `vipdaily`, `clearlogs`, `buyvip`. (Soon)
 
